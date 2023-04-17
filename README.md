@@ -4,7 +4,7 @@
 
 <img src='./images/virus.png' alt="Covid19 WebApp"/>
 
-### Link: https://covid-19-tracker-9c05e.web.app/
+
 
 ### _COVID-19 Tracker Application that displays, current infected, recovered and death cases due to corona virus, Globally and Country wise with Charts and explainations._
 
